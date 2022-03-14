@@ -1545,30 +1545,30 @@
     prop-types "^15.7.2"
     react-is "^17.0.2"
 
-"@mui/x-data-grid-pro@https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-data-grid-pro":
+"@mui/x-data-grid-pro@https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-data-grid-pro":
   version "5.6.1"
-  resolved "https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-data-grid-pro#e5808feb1e7e1e681a8ff8019214d2b33f94bf68"
+  resolved "https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-data-grid-pro#421fcf4bbeb328ff405ca64208e028b4420e93f6"
   dependencies:
     "@mui/utils" "^5.4.4"
-    "@mui/x-data-grid" "https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-data-grid"
-    "@mui/x-license-pro" "https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-license-pro"
+    "@mui/x-data-grid" "https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-data-grid"
+    "@mui/x-license-pro" "https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-license-pro"
     "@types/format-util" "^1.0.2"
     clsx "^1.0.4"
     prop-types "^15.8.1"
     reselect "^4.1.5"
 
-"@mui/x-data-grid@https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-data-grid":
+"@mui/x-data-grid@https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-data-grid":
   version "5.6.1"
-  resolved "https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-data-grid#99cd7b9ce6862d02eb47a8c1db4b9c50d80c89e9"
+  resolved "https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-data-grid#184c0a56556ef5e536458bb0c5cd5f184c73fa9f"
   dependencies:
     "@mui/utils" "^5.4.4"
     clsx "^1.1.1"
     prop-types "^15.8.1"
     reselect "^4.1.5"
 
-"@mui/x-license-pro@https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-license-pro":
+"@mui/x-license-pro@https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-license-pro":
   version "5.6.1"
-  resolved "https://pkg.csb.dev/mui/mui-x/commit/dcb83b65/@mui/x-license-pro#1ecbd12b60c707643d260b6d7e02d81040aea399"
+  resolved "https://pkg.csb.dev/mui/mui-x/commit/b665cec5/@mui/x-license-pro#1ecbd12b60c707643d260b6d7e02d81040aea399"
   dependencies:
     "@mui/utils" "^5.4.4"
     esm "^3.2.25"
