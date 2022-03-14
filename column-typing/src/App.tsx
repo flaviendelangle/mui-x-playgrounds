@@ -1,12 +1,11 @@
 import * as React from "react";
 import {
   GridColDef,
-  DataGridPro,
-  GridValueGetterParams,
   GridValueFormatterParams,
   DataGridProProps,
+  DataGridPro,
 } from "@mui/x-data-grid-pro";
-import { DataGridProps } from "@mui/x-data-grid";
+
 
 interface Movie {
   id: number;
